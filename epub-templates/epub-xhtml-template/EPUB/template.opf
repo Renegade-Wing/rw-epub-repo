@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="title">Template Epub - html</dc:title>
+        <dc:identifier id="uid">epub-template-html</dc:identifier>
+        <dc:language>en-US</dc:language>
+        <dc:creator>Person</dc:creator>
+        <dc:creator>Human</dc:creator>
+        <dc:contributor>Them</dc:contributor>
+        <dc:contributor>Da Gang</dc:contributor>
+        <meta property="dcterms:modified">2022-02-19T19:01:00Z</meta>
+		<meta property="schema:accessMode">textual</meta>
+        <dc:rights>Fan-fiction. We are Star Wars fans and just want to make things.</dc:rights>
+    </metadata>
+    <manifest>
+        <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="nav.xhtml"/>
+        <item id="epub-css" media-type="text/css" href="styles/styles.css"/>
+        <item id="tp" media-type="application/xhtml+xml" href="title-page.xhtml"/>
+        <item id="ac" media-type="application/xhtml+xml" href="authors-and-contributors.xhtml"/>
+        <item id="tmp-chp" media-type="application/xhtml+xml" href="template-chapter.xhtml"/>
+        <item id="tbc" media-type="application/xhtml+xml" href="continued-in.xhtml"/>
+        <item id="rwdc" media-type="application/xhtml+xml" href="rwdotcom.xhtml"/>
+        <item id="rdp" media-type="image/jpeg" href="assets/renegadewing.jpg"/>
+    </manifest>
+    <spine>
+        <itemref idref="tp"/>
+        <itemref idref="ac"/>
+        <itemref idref="htmltoc"/>
+        <itemref idref="tmp-chp"/>
+        <itemref idref="tbc"/>
+        <itemref idref="rwdc"/>
+    </spine>
+</package>
