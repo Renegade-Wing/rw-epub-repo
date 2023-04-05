@@ -1,0 +1,26 @@
+---
+title:
+- type: main
+  text: Template Title
+- type: subtitle
+  text: A template for you to use
+creator:
+- role: author
+  text: John Smith
+- role: editor
+  text: Sarah Jones
+- role: contributor
+  text: Someone
+identifier:
+- scheme: UID
+  text: epub-markdown-template
+meta:
+- scheme: dcterms:modified
+  text: 2022-02-19T19:01:00Z
+- scheme: schema:accessMode
+  text: textual
+publisher:  My Press
+rights: Fan-fiction. We are Star Wars fans and just want to make things.
+ibooks:
+  version: 1.3.4
+...

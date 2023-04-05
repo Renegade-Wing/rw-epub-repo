@@ -17,10 +17,13 @@ In the `epub-templates/` directory you will find different kinds of template epu
 
 ### Compiling Your Epub
 
-#### XHTML
+#### XHTML Without Pandoc
 
-update the templates for your store. add more chapters and links to the table of contents. etc etc.
+Update the templates for your story. Add more chapters and links to the table of contents. etc etc.
 
-compile the epub by going into the bin folder and running `./bindbook.sh src bookname` from the terminal.
+Compile the epub by going into the bin folder and running `./bindbook.sh src bookname` from the terminal.
 
-#### Markdown
+#### XHTML With Pandoc
+
+
+#### Markdown With Pandoc
