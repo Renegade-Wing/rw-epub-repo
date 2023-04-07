@@ -1,10 +1,18 @@
-# Chapter Template {#chapter-one .center-text}
+:::::{#chapter-content}
 
-Sub Text{.center-text}
+:::{.center-text .chapter-header}
+# Chapter Template {#chapter-one}
+
+Sub Text
+:::
 
 This is part of a chapter.
 
-***{.center-text}
-This is a chapter internal break{.center-text}
+:::{.center-text .chapter-internal-break}
+>\***
+
+This is a chapter internal break
+:::
 
 More paragraphs!
+:::::

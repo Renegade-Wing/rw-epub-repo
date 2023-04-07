@@ -77,3 +77,12 @@ div.center-content {
 .center-text {
     text-align: center;
 }
+
+.chapter-header {
+    margin-bottom: 3rem;
+}
+
+.chapter-internal-break {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
