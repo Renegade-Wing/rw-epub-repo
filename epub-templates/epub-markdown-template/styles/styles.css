@@ -54,14 +54,14 @@ dl dd ul {
     list-style: none;
 }
 
-#toc {
+#table-of-contents {
     text-align: center;
 }
-#toc ol {
+#table-of-contents ol, #table-of-contents ul {
     list-style: none;
 }
 
-#toc ol li {
+#table-of-contents ol li, #table-of-contents ul li {
     margin: 0 0 15px 0;
 }
 
@@ -85,4 +85,12 @@ div.center-content {
 .chapter-internal-break {
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+.titlepage, .credits, .page-break {
+    break-before: always;
+    page-break-before: always;
+    display: block;
+    page-break-after: always;
+    break-after: always;
 }

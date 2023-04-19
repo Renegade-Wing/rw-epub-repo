@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en-US" lang="en-US">
+
+<head>
+  <meta charset="utf-8" />
+  <title>$pagetitle$</title>
+  $for(css)$
+  <link rel="stylesheet" type="text/css" href="$css$" />
+  $endfor$
+</head>
+
+<body 
+  $if(coverpage)$ 
+    id="cover" 
+  $endif$ 
+  $if(body-type)$ 
+    epub:type="$body-type$" 
+  $endif$
+>
+  $if(titlepage)$
+    <section epub:type="titlepage" class="titlepage">
+    $if(title)$
+      <h1 class="title">$title$</h1>
+    $endif$
+    $if(subtitle)$
+      <p class="subtitle">$subtitle$</p>
+    $endif$
+    </section>
+  $endif$
+  $if(credits)$
+    <section epub:type="credits" class="credits">
+      <h1 class="title">Authors and Contributors</h1>
+      <dl>
+      $for(creator)$
+        $if(creator.role)$
+          <dt class="author">$creator.role$:</dt><dd>$creator.text$</dd>
+        $endif$
+      $endfor$
+      $for(credits)$
+        $if(credits.role)$
+          <dt class="contributor">$credits.role$:</dt><dd>$credits.text$</dd>
+        $endif$
+      $endfor$
+      </dl>
+    </section>
+  $endif$
+  $for(include-before)$
+    $include-before$
+  $endfor$
+  $body$
+  $for(include-after)$
+    $include-after$
+  $endfor$
+</body>
+</html>
