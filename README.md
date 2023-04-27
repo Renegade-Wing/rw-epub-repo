@@ -29,5 +29,5 @@ Compile the epub by going into the bin folder and running `./bindbook.sh src boo
 #### Markdown With Pandoc
 
 ```bash
-pandoc -f markdown+escaped_line_breaks -o test.epub -c styles/styles.css --template=markdown-template.html metadata.yaml chapters/toc.md chapters/template-chapter.md chapters/continued-in.md chapters/rwdotcom.md
+pandoc -f markdown+escaped_line_breaks -o test.epub -c styles/styles.css chapters/*.md --epub-metadata template.opf --template markdown-template.html
 ```
