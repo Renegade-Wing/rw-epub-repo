@@ -74,6 +74,11 @@ div.center-content {
     position: relative;
 }
 
+svg.center-content {
+    margin: 0 auto;
+    display: block;
+}
+
 .center-text {
     text-align: center;
 }
@@ -87,10 +92,6 @@ div.center-content {
     margin-bottom: 2rem;
 }
 
-/* .titlepage, .credits, .page-break {
-    break-before: always;
-    page-break-before: always;
-    display: block;
-    page-break-after: always;
-    break-after: always;
-} */
+.titlepage {
+    text-align: center;
+}
