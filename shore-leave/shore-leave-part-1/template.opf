@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-        <dc:title id="title">Template Epub - html</dc:title>
-        <dc:identifier id="uid">epub-template-html</dc:identifier>
+        <dc:title id="title">Shore Leave Part 1</dc:title>
+        <dc:identifier id="uid"><shore-leave-part-1></shore-leave-part-1></dc:identifier>
         <dc:language>en-US</dc:language>
-        <dc:creator>John Smith</dc:creator>
-        <dc:creator>Sarah Jones</dc:creator>
-        <dc:contributor>Tad Strange</dc:contributor>
-        <dc:contributor>Real Human</dc:contributor>
-        <meta property="dcterms:modified">2023-04-25T00:00:00Z</meta>
+        <dc:creator>Andrew "Dobber" Dobson</dc:creator>
+        <meta property="dcterms:modified">2025-01-08T00:00:00Z</meta>
 		<meta property="schema:accessMode">textual</meta>
         <dc:publisher>Renegade Wing Rizzography Unincorporated</dc:publisher>
         <dc:rights>Fan-fiction. We are Star Wars fans and just want to make things.</dc:rights>

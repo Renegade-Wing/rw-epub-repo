@@ -1,5 +1,5 @@
 
-# Prologue Template {#chapter-prologue role="doc-pagebreak" epub:type="prologue"}
+# Prologue {#chapter-prologue role="doc-pagebreak" epub:type="prologue"}
 
 :::{.chapter-header-subtext .center-text}
 Prologue

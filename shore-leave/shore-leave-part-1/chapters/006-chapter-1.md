@@ -1,5 +1,5 @@
 
-# Chapter Template {#chapter-one role="doc-pagebreak"}
+# Chapter One {#chapter-one role="doc-pagebreak"}
 
 :::{.chapter-header-subtext .center-text}
 Chapter 1
