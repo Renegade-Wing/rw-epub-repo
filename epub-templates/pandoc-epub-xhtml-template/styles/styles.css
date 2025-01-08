@@ -18,6 +18,7 @@ tbody, tfoot, thead, tr, th, td {
 body {
     font-family: Georgia, Times, serif;
     letter-spacing: 0.05em;
+    line-height: 1.25em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -41,12 +42,12 @@ p {
 dl dt {
     float: left;
     clear: left;
-    width: 220px;
+    width: 25%;
     text-align: right;
 }
 
 dl dd {
-    margin: 0px 0 0 235px;
+    margin: 0px 0 0 30%;
     padding: 0 0 0.5em 0;
 }
 
@@ -74,32 +75,6 @@ div.center-content {
     position: relative;
 }
 
-div.chapter-header h1, 
-div.chapter-header p,
-section.chapter-header,
-section.chapter-header {
+.center-text {
     text-align: center;
-}
-
-div.chapter-internal-break h1,
-section.chapter-internal-break h1 {
-    margin-top: 2rem;
-    margin-bottom: -0.5rem;
-}
-
-div.chapter-internal-break h1, 
-section.chapter-internal-break h1,
-div.chapter-interal-break p,
-section.chapter-internal-break p
-{
-    text-align: center;
-}
-
-div.center-text {
-    text-align: center;
-}
-
-.page-breaker {
-    page-break-before: always;
-    break-before: always;
 }
