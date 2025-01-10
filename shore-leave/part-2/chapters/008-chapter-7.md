@@ -1,5 +1,5 @@
 
-# Chapter Three {#chapter-three role="doc-pagebreak"}
+# Chapter Seven {#chapter-seven role="doc-pagebreak"}
 
 :::{.chapter-header-subtext .center-text}
 Chapter 7
