@@ -1,4 +1,4 @@
 ---
-title: "Shore Leave - Part 1"
+title: "Shore Leave - Part 2"
 subtitle: "A Renegade Wing Tale"
 ...
