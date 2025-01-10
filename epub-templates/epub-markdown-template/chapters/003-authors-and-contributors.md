@@ -1,3 +1,5 @@
+:::{.force-page-break}
+
 # Authors and Contributors
 
  <dl>
@@ -6,3 +8,5 @@
     <dt class="contributor">Contributor:</dt><dd>JTad Strange</dd>
     <dt class="contributor">Contributor:</dt><dd>Real Human</dd>
 </dl>
+
+:::

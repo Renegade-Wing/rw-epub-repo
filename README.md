@@ -41,5 +41,5 @@ When making a epub with the markdown template:
 8. When you are ready to bundle your epub, you can run the following command in your terminal/bash:
 
 ```bash
-pandoc -f markdown+escaped_line_breaks -o YOUR_BOOK_NAME.epub -c src/styles/styles.css src/chapters/*.md --epub-metadata src/template.opf --template src/markdown-template.html
+pandoc -f markdown+escaped_line_breaks -o YOUR_BOOK_NAME.epub -c src/styles/styles.css src/chapters/*.md --epub-metadata src/template.opf --template src/markdown-template.html 
 ```

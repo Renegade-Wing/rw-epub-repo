@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 2em;
+    line-height: 1.25em;
 }
 
 h2 {
@@ -55,14 +56,15 @@ dl dd ul {
     list-style: none;
 }
 
-#toc {
+#table-of-contents {
     text-align: center;
 }
-#toc ol {
+
+#table-of-contents ol, #table-of-contents ul {
     list-style: none;
 }
 
-#toc ol li {
+#table-of-contents ol li {
     margin: 0 0 15px 0;
 }
 
@@ -77,4 +79,12 @@ div.center-content {
 
 .center-text {
     text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.force-page-break {
+    break-before: always;
 }
