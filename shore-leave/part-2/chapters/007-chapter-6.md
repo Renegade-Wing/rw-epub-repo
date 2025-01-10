@@ -200,8 +200,7 @@ After retrieving the food from the grill less than half an hour later and platin
 “Not exactly what I want to hear,” she said, picking up her fork and digging into the fish covered in sauce and herbs. Andrew remained silent, watching her intently and holding his breath in anticipation.  She moved the fork towards her mouth. “This damn well better be…,” she began as she put the fork full of food into her mouth.  She stopped talking to savour the food in her mouth. “Oh my gosh,” she said, swallowing her food and digging at the fish again, “oh my gosh, this is the best fish I have ever tasted.”  
  	
 
-    _Oh thank god,_
-    thought Andrew, breathing a silent sigh of relief.
+_Oh thank god,_ thought Andrew, breathing a silent sigh of relief.
  	
 “What’s your secret?” she asked.
  	

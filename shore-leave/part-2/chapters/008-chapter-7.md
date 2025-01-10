@@ -128,22 +128,21 @@ After some maneuvering the throngs of cruiser goers moving up and down the deck 
  	
 “Well, that explains this note,” she said, reading it aloud.
 
+_My Dearest Dia,_
 
+_Please enjoy these two tickets on my behalf for the show tomorrow evening.  You and a friend are certainly going to be entertained for a wonderful evening. See you soon,_
 
-    _My Dearest Dia,
- 	Please enjoy these two tickets on my behalf for the show tomorrow evening.  You and a friend are certainly going to be entertained for a wonderful evening. See you soon,
- 											Auntie_
+_Auntie_
+
 “Ugh,” she said, wrinkling her nose, “I bet it’s a musical number, isn’t it?”
  	
 
-    “Not just any musical number or show,” he said, excitement beaming from his face. “These are tickets to see _The Pirates of Merchance_
-    by Gilbert and Mulligan, put on by none other than the Royal Duchess’s Acting Society!”
+“Not just any musical number or show,” he said, excitement beaming from his face. “These are tickets to see _The Pirates of Merchance_ by Gilbert and Mulligan, put on by none other than the Royal Duchess’s Acting Society!”
  	
 “So?” she asked, shrugging.
  	
 
-    “You don’t get it, do you?” he said. “_The Pirates of Merchance_
-    is a classic. A swashbuckling tale like no other, with a plot twist so great you’d never think of it.  It is next to impossible to get tickets, let alone tickets for a performance from the RDAS.  I know all the songs off by heart.”  He took in a deep breath, changing his stance to put his left foot out in front of him.  He put his right hand on his waist, while extending his left arm outwards and upwards. “When I was a lad in the Queen’s navy,” he began.  He immediately felt Dia’s index finger press against his lips, stopping him from singing further.
+“You don’t get it, do you?” he said. “_The Pirates of Merchance_ is a classic. A swashbuckling tale like no other, with a plot twist so great you’d never think of it.  It is next to impossible to get tickets, let alone tickets for a performance from the RDAS.  I know all the songs off by heart.”  He took in a deep breath, changing his stance to put his left foot out in front of him.  He put his right hand on his waist, while extending his left arm outwards and upwards. “When I was a lad in the Queen’s navy,” he began.  He immediately felt Dia’s index finger press against his lips, stopping him from singing further.
  	
 “No,” she said earnestly. “No, this is not happening. You are not singing.”
  	

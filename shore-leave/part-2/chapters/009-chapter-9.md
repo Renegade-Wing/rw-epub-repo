@@ -87,10 +87,7 @@ He looked down at the yellow rose, then back at her.
  	
 “Yes, Seela dear,” she said. “I think everything will be just fine.”
  	
-
-    “Ladies and gentlemen, beings of all ages,” boomed a voice over the speaker system across the ship. “The crew of the _SS Starfish_
-    would like to welcome you aboard for the first day of our famous cruise.  To celebrate all of our esteemed guests, you are invited to watch the racers of the Contessa’s Cup, the premier race of the _Starfire Circuit_
-    .”
+“Ladies and gentlemen, beings of all ages,” boomed a voice over the speaker system across the ship. “The crew of the _SS Starfish_ would like to welcome you aboard for the first day of our famous cruise.  To celebrate all of our esteemed guests, you are invited to watch the racers of the Contessa’s Cup, the premier race of the _Starfire Circuit_.”
  	
 Cheers and claps rose from among the patrons below her.
  	
@@ -226,8 +223,7 @@ One if its wings clipped the energy beam, shredding it to pieces.  As the craft 
 “Someone’s activated the advanced flying concourse,” Ledwin said through gritted teeth over the comm. Ahead, more and more rings began to activate.  “The organizers need to stop the race!”
  	
 
-    ”_Starfish_
-    Bridge, this is Red Angel One,” came a new voice over the comm. “Request you stop the race immediately.  Repeat, stop the race immediately.”
+”_Starfish_ Bridge, this is Red Angel One,” came a new voice over the comm. “Request you stop the race immediately.  Repeat, stop the race immediately.”
  	
 Static filled the airwaves.
  	

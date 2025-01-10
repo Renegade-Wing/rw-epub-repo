@@ -223,10 +223,9 @@ The bird took off with a honk, and began its ascent upwards and away from the ta
  	
 “Well,” she said, turning and meeting his eyes, “at least I have the most considerate boyfriend this side of the galaxy.”
 
-
-***
-
-
+:::{.chapter-internal-break .center-text}
+>\***\
+:::
  	
 Contessa Suli deChenzzi sat in a beach chair on the deck outside of her main office.  Reports had come trickling in all morning, some with good news, others with unwelcome news.  The oppressive mid-day sun beat down on her skin, adding to her foul mood.  The only thing that made sitting outside at this moment bearable was the cool breeze, offsetting some of the heat -- though that paled in comparison to her worrying about her missing husband, Firith.
  	
