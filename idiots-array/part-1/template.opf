@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="title">Idiot's Array Part 1</dc:title>
+        <dc:identifier id="uid">epub-template-html</dc:identifier>
+        <dc:language>en-US</dc:language>
+        <dc:creator>Bulldog</dc:creator>
+        <dc:creator>Lock</dc:creator>
+        <dc:contributor>Battledog</dc:contributor>
+        <dc:contributor>Jalb_k</dc:contributor>
+        <meta property="dcterms:modified">2023-04-25T00:00:00Z</meta>
+		<meta property="schema:accessMode">textual</meta>
+        <dc:publisher>Renegade Wing Rizzography Unincorporated</dc:publisher>
+        <dc:rights>Fan-fiction. We are Star Wars fans and just want to make things.</dc:rights>
+    </metadata>
+</package>
