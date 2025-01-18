@@ -130,9 +130,7 @@ Supriya slid past Andrew with lightning-like reflexes and put the trooper in a c
  	
 The trooper gave a slight nod and began to walk forward.
  	
-
-    _Well, there goes the element of surprise,_
-    thought Andrew as he fell in behind her.
+_Well, there goes the element of surprise,_ thought Andrew as he fell in behind her.
  	
 As they passed through the doorway, he could just make out the other troopers monitoring the security system and giving instructions.
  	
@@ -282,9 +280,10 @@ Those standing behind Reginald Thirdbottom gave gentle waves and a unified “he
  	
 Dia would have rolled her eyes if it wasn’t impolite.  
  	
+_Just my luck_ she thought. 
 
-    _Just my luck_
-    she thought. _Actors._
+_Actors._
+
 “To answer your other inquiry,” Reginald went on, “we were escorted here by the stormtroopers you so timely disabled.  It would appear from overhearing their conversation that we are being separated into groups to be transported away.”
  	
 Dia raised an eyebrow, curious at this last statement.

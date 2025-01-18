@@ -131,10 +131,19 @@ Andrew barrelled himself into the trooper as hard as he could, knocking her over
 Andrew, meanwhile, grabbed his stormtrooper by the collar of her armor and began bouncing her off the wall. 
  	
 
-    “I’m really sorry for this,” he said. _Thwack._
-    “I don’t enjoy hitting women.” _Thwack.  Thwack._
-    “But you’re a stormtrooper, and you’re in my way!” _Thwack!_
-    The stormtrooper slumped to the floor in daze, dropping her blaster.  He scrambled to pick it up from near her, took a step back to check the setting, and fired.  A blue ring of energy lanced forth and hit the trooper, stunning her.  He heard a similar shot come from the stairwell, and checked on Supriya.  She had similarly stunned her trooper, who lay slumped against the wall.
+“I’m really sorry for this,” he said.
+ 
+_Thwack._
+    
+“I don’t enjoy hitting women.” 
+
+_Thwack.  Thwack._
+    
+“But you’re a stormtrooper, and you’re in my way!” 
+
+_Thwack!_
+
+The stormtrooper slumped to the floor in daze, dropping her blaster.  He scrambled to pick it up from near her, took a step back to check the setting, and fired.  A blue ring of energy lanced forth and hit the trooper, stunning her.  He heard a similar shot come from the stairwell, and checked on Supriya.  She had similarly stunned her trooper, who lay slumped against the wall.
  	
 “They won’t be out for long,” he said to her quietly.  Then he reached for and began dragging his trooper into the stairwell.
  	
@@ -151,8 +160,7 @@ They propped both of the troopers up against the railing, and raised their arms 
 “Or calling for help,” she said, removing their helmets and placing them on the stairs, which would be well out of arm or leg reach.
  	
 
-    Andrew quickly checked the stairwell above and below them.  He didn’t see or hear anyone coming.  Then he noticed the stairwell sign.  _Deck 5 Below_
-    it read.
+Andrew quickly checked the stairwell above and below them.  He didn’t see or hear anyone coming.  Then he noticed the stairwell sign. _Deck 5 Below_ it read.
  	
 “This may be our best chance,” he whispered.
  	
