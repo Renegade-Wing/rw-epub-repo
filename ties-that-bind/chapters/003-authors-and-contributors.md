@@ -3,10 +3,9 @@
 # Authors and Contributors
 
  <dl>
-    <dt class="author">Author:</dt><dd>John Smith</dd>
-    <dt class="author">Editor:</dt><dd>Sarah Jones</dd>
-    <dt class="contributor">Contributor:</dt><dd>JTad Strange</dd>
-    <dt class="contributor">Contributor:</dt><dd>Real Human</dd>
+    <dt class="author">Author:</dt><dd>Frosty</dd>
+    <dt class="author">Author:</dt><dd>Lock</dd>
+    <dt class="author">Author:</dt><dd>Gremlin</dd>
 </dl>
 
 :::

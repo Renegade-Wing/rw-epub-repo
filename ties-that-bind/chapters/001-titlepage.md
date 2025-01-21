@@ -1,4 +1,4 @@
 ---
-title: "Title of the Story"
+title: "Ties That Bind"
 subtitle: "A Renegade Wing Tale"
 ...

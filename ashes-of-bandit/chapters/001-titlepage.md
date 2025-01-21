@@ -1,4 +1,4 @@
 ---
-title: "Title of the Story"
+title: "Ashes of Bandit"
 subtitle: "A Renegade Wing Tale"
 ...
