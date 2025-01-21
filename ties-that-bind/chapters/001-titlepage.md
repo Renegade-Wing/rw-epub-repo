@@ -1,4 +1,4 @@
 ---
-title: "Ashes of Bandit"
+title: "Ties That Bind"
 subtitle: "A Renegade Wing Tale"
 ...
