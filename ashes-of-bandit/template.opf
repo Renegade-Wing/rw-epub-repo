@@ -4,9 +4,7 @@
         <dc:title id="title">Ashes of Bandit</dc:title>
         <dc:identifier id="uid">epub-template-html</dc:identifier>
         <dc:language>en-US</dc:language>
-        <dc:creator>Frosty</dc:creator>
-        <dc:creator>Lock</dc:creator>
-        <dc:creator>Gremlin</dc:creator>
+        <dc:creator>Bulldog</dc:creator>
         <meta property="dcterms:modified">2023-04-25T00:00:00Z</meta>
 		<meta property="schema:accessMode">textual</meta>
         <dc:publisher>Renegade Wing Rizzography Unincorporated</dc:publisher>
